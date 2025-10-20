@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-([img.jpg.jpg])
+![Tumbnail](img.jpg.jpg)
 
 # Most Favorite Anime Series
 by Prince Cedric M. Perez
