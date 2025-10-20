@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-![alt text]([image.jpg](https://images-na.ssl-images-amazon.com/images/S/pv-target-images/78eb46c24843097e6a78f8cb9aa0818b639ce6a9bf96680be8f6063aa53976e0._RI_V_TTW_.jpg)
+([img.jpg.jpg})
 
 # Most Favorite Anime Series
 by Prince Cedric M. Perez
